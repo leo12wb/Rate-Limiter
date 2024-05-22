@@ -1,0 +1,7 @@
+### Request Without Token
+GET http://localhost:8080
+
+### Request with API_KEY
+GET http://localhost:8080
+API_KEY: abc123
+Content-Type: application/json

@@ -4,7 +4,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/allanmaral/go-expert-rate-limiter-challenge/internal/testutils"
+	"github.com/leo12wb/Rate-Limiter/internal/testutils"
 	"github.com/matryer/is"
 	"github.com/redis/go-redis/v9"
 )

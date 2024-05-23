@@ -7,7 +7,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/allanmaral/go-expert-rate-limiter-challenge/pkg/limiter"
+	"github.com/leo12wb/Rate-Limiter/pkg/limiter"
 	"github.com/joho/godotenv"
 )
 

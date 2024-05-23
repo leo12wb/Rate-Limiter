@@ -1,4 +1,4 @@
-module github.com/allanmaral/go-expert-rate-limiter-challenge
+module github.com/leo12wb/Rate-Limiter
 
 go 1.22.2
 

@@ -4,7 +4,7 @@ import (
 	"net/http"
 	"os"
 
-	"github.com/leo12wb/Rate-Limiter/cmd/Rate-Limiter/dependency_injection"
+	"github.com/leo12wb/Rate-Limiter/cmd/go_expert_rate_limiter/dependency_injection"
 	"github.com/leo12wb/Rate-Limiter/configs"
 	"github.com/leo12wb/Rate-Limiter/internal/infra/web/web"
 	"github.com/leo12wb/Rate-Limiter/internal/value_objects"

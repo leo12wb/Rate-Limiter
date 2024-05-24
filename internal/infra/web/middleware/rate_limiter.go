@@ -2,10 +2,11 @@ package middleware
 
 import (
 	"context"
-	"github.com/aluferraz/go-expert-rate-limiter/internal/entity/web_session"
-	"github.com/aluferraz/go-expert-rate-limiter/internal/infra/persistence/rate_limit"
-	"github.com/aluferraz/go-expert-rate-limiter/internal/value_objects"
 	"net/http"
+
+	"github.com/leo12wb/Rate-Limiter/internal/entity/web_session"
+	"github.com/leo12wb/Rate-Limiter/internal/infra/persistence/rate_limit"
+	"github.com/leo12wb/Rate-Limiter/internal/value_objects"
 )
 
 type RateLimiterMiddleware struct {
